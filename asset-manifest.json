@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hamima27.github.io/csb-xeqp4/static/css/main.e53a5fe6.chunk.css",
+    "main.js": "https://hamima27.github.io/csb-xeqp4/static/js/main.70325f69.chunk.js",
+    "main.js.map": "https://hamima27.github.io/csb-xeqp4/static/js/main.70325f69.chunk.js.map",
+    "runtime-main.js": "https://hamima27.github.io/csb-xeqp4/static/js/runtime-main.644affd9.js",
+    "runtime-main.js.map": "https://hamima27.github.io/csb-xeqp4/static/js/runtime-main.644affd9.js.map",
+    "static/css/2.142bee5e.chunk.css": "https://hamima27.github.io/csb-xeqp4/static/css/2.142bee5e.chunk.css",
+    "static/js/2.fe3aef40.chunk.js": "https://hamima27.github.io/csb-xeqp4/static/js/2.fe3aef40.chunk.js",
+    "static/js/2.fe3aef40.chunk.js.map": "https://hamima27.github.io/csb-xeqp4/static/js/2.fe3aef40.chunk.js.map",
+    "index.html": "https://hamima27.github.io/csb-xeqp4/index.html",
+    "static/css/2.142bee5e.chunk.css.map": "https://hamima27.github.io/csb-xeqp4/static/css/2.142bee5e.chunk.css.map",
+    "static/css/main.e53a5fe6.chunk.css.map": "https://hamima27.github.io/csb-xeqp4/static/css/main.e53a5fe6.chunk.css.map",
+    "static/js/2.fe3aef40.chunk.js.LICENSE.txt": "https://hamima27.github.io/csb-xeqp4/static/js/2.fe3aef40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.644affd9.js",
+    "static/css/2.142bee5e.chunk.css",
+    "static/js/2.fe3aef40.chunk.js",
+    "static/css/main.e53a5fe6.chunk.css",
+    "static/js/main.70325f69.chunk.js"
+  ]
+}
